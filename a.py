@@ -18,4 +18,4 @@ elif b <= d:
         s = d - b -1 
         s = s*12
         f = a + c + s
-print("Khoảng cách giữa cột mốc thời gian là " + str(f) + "" + "tháng.")
+print("Khoảng cách giữa cột mốc thời gian là " + str(f) + " " + "tháng.")
